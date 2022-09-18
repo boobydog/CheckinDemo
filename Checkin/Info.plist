@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CELLPHONE</key>
+	<string>$(CELLPHONE)</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.270143477751-ccsssefsp2gdgch026d480ru1o1qhg48</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.39961697097-8dbhjo6rtnigd0bhgl10n4aq09i90npu</string>
+			</array>
+		</dict>
+	</array>
+	<key>CHATWORK_ROOM_ID</key>
+	<string>$(CHATWORK_ROOM_ID)</string>
+	<key>CHATWORK_TOKEN</key>
+	<string>$(CHATWORK_TOKEN)</string>
+	<key>EMAIL</key>
+	<string>$(EMAIL)</string>
+	<key>GOOGLE_API_CHECKIN_SHEET_RANGE</key>
+	<string>$(GOOGLE_API_CHECKIN_SHEET_RANGE)</string>
+	<key>GOOGLE_API_CLIENT_ID</key>
+	<string>$(GOOGLE_API_CLIENT_ID)</string>
+	<key>GOOGLE_API_IMAGE_DIRECTORY_ID</key>
+	<string>$(GOOGLE_API_IMAGE_DIRECTORY_ID)</string>
+	<key>GOOGLE_API_RESERVATION_SHEET_RANGE</key>
+	<string>$(GOOGLE_API_RESERVATION_SHEET_RANGE)</string>
+	<key>GOOGLE_API_SHEET_ID</key>
+	<string>$(GOOGLE_API_SHEET_ID)</string>
+	<key>TEL</key>
+	<string>$(TEL)</string>
+</dict>
+</plist>

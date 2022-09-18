@@ -1,7 +1,8 @@
 # Xcode
 #
 # gitignore contributors: remember to update Global/Xcode.gitignore, Objective-C.gitignore & Swift.gitignore
-
+## Mac OS X
+.DS_Store
 ## User settings
 xcuserdata/
 
@@ -88,3 +89,22 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+
+
+## library
+Pods/*
+Carthage/Build/
+
+## Other
+Config/*
+*..xcconfig
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+*.xcuserstate
+*.swp
+xcuserdata/
+*.moved-aside
+!.gitkeep
+.gitsecret/keys/random_seed
+!*.secret

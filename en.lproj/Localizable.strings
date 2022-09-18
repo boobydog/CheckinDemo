@@ -1,0 +1,159 @@
+/*
+  Localizable.strings
+  CheckinApp
+
+  Created by j-sys on 2022/06/14.
+  
+*/
+//SelectQRView
+"I don't have QR Code" = "I don't have QR Code";
+"Read QR Code" = "Read QR Code";
+"Next" = "Next";
+//CheckinFormView
+"Name" = "Name";
+"Address" = "Address";
+"Phone Number" = "Phone Number";
+"Checkin Input Form"="Checkin Input Form";
+"Reservation number" = "Reservation number";
+"Room Type" = "Room type";
+"Number of people" = "Number of people";
+"Number of rooms" = "Number of rooms";
+"Check in date"  = "Check in date";
+"Check out date"  = "Check out date";
+"Payment" = "Payment";
+"Payment status" = "Payment status" ;
+"Paid" = "Paid" ;
+"Unpaid" = "Unpaid";
+"Guest input information" = "Guest input information";
+"Required" = "Required";
+"Optional" = "Optional";
+"Country of residence" = "Residence";
+"Nationality" = "Nationality";
+"Representative name" = "Representative name";
+"Email" = "Email";
+"Phone number" = "Phone number";
+"Country IDD code" = "Country IDD code";
+"Address" = "Address";
+"Passport picture" = "Passport picture";
+"Reservation info" = "Reservation info";
+"Representative guest" = "Representative guest";
+"Other guest" = "Other guest";
+"Living in Japan" = "Living in Japan";
+"Living outside Japan" = "Living outside Japan";
+"I agree to the privacy policy." = "I agree to the privacy policy.";
+"Check in" = "Check in";
+"Check in with the information you entered. Is it OK?" = "Check in with the information you entered. Is it OK?";
+"Payment required" = "Your payment is incomplete.";
+"Since your payment has not been completed,\nstaff action is required. \nPlease contact the staff from the help button." = "Since your payment has not been completed,\nstaff action is required. \nPlease contact the staff from the help button.";
+"Paid. Execute check-in." = "Paid. Execute check-in.";
+//CompleteView
+"XXX Password" = "XXX Password";
+"Checkin has Completed" = "Checkin has Completed";
+"Enter your XXX password into the terminal and receive your key." = "Enter your XXX password \ninto the terminal and receive your key";
+"I received my key.\nReturn to first screen." = "I received my key \nReturn to first screen";
+//common
+"Run"="Run";
+"Cancel" = "Cancel";
+"Confirm"="Confirm";
+" is" = " is";
+" ." = " .";
+" name" = " name";
+" passport picture" = " passport picture";
+"Go Back" = "Go Back";
+//Error
+" required" = "required";
+"Nationality is required." = "Nationality is required.";
+"Phone number is required." = "Phone number is required.";
+"Representative guest name is required." = "Representative guest name is required.";
+"Representative guest passport picture is required." = "Representative guest passport picture is required.";
+"Other guest name is required." = "Other guest name is required.";
+"Other guest passport picture is required." =  "Other guest passport picture is required.";
+"Please agree to the privacy policy." = "Please agree to the privacy policy.";
+"There is an error in the format of the email." = "There is an error in the format of the email.";
+//PrivacyPolicy
+"Privacy Policy" = "Privacy Policy";
+//Help
+"HELP" = "HELP";
+"Call the staff" = "Call the staff";
+"Check-in Instructions" = "Check-in Instructions";
+"How to get your key" = "How to get your key";
+"How to use the facility" = "How to use the facility";
+"Check-out Instructions" = "Check-out Instructions";
+"Other Services" = "Other Services";
+"If you are in a hurry, please contact us at the contact information below." = "If you are in a hurry, please contact us \nat the contact information below.";
+
+"Describe the check-in procedure" = "Describe the check-in procedure";
+"Language selection" = "Language selection";
+"First, select your language on the top page of the check-in app." = "First, select your language on the top page of the check-in app.";
+"Enter your reservation number" = "Enter your reservation number";
+"Please read the QR code of the reservation number described in the reservation completion email sent from us at the time of reservation. Alternatively, enter the reservation number provided in the email and tap \"Next\"." = "Please read the QR code of the reservation number described in the reservation completion email sent from us at the time of reservation. Alternatively, enter the reservation number provided in the email and tap \"Next\".";
+"Enter customer information" = "Enter customer information";
+"Once the reservation has been confirmed based on the reservation number entered by the customer, the screen will transition to the customer information input screen. \nPlease enter the necessary information for the representative and all guests to complete check-in. \nIf you do not live in Japan, you are required to take a photo of your ID card with a face photo, such as a passport, so please take a photo from yesterday on the form. \nIf you have not paid yet, please contact the staff. Please call the staff from the help button on the upper right of the screen." = "Once the reservation has been confirmed based on the reservation number entered by the customer, the screen will transition to the customer information input screen. \nPlease enter the necessary information for the representative and all guests to complete check-in. \nIf you do not live in Japan, you are required to take a photo of your ID card with a face photo, such as a passport, so please take a photo from yesterday on the form. \nIf you have not paid yet, please contact the staff. Please call the staff from the help button on the upper right of the screen.";
+"Key pick-up" = "Key pick-up";
+"After successful check-in, a serial number for key collection will be displayed. Enter the serial number into the terminal called XXX and receive the key. \nPlease refer to the following for the operation procedure of the terminal." = "After successful check-in, a serial number for key collection will be displayed. Enter the serial number into the terminal called XXX and receive the key. \nPlease refer to the following for the operation procedure of the terminal.";
+
+"We will explain how to operate the XXX terminal when receiving the key." = "We will explain how to operate the XXX terminal when receiving the key.";
+"We have automated the receipt of keys, and we have introduced a mechanism to receive them from a terminal called XXX. The procedure is described below." = "We have automated the receipt of keys, and we have introduced a mechanism to receive them from a terminal called XXX. The procedure is described below.";
+"Touch the touch panel of XXX" = "Touch the touch panel of XXX";
+"Choose your language" = "Choose your language";
+"Select key pick-up" = "Select key pick-up";
+"Enter key code" = "Enter key code";
+"Select the name of the key you will receive" = "Select the name of the key you will receive";
+"Take the key out of the open lock cabinet and close it" = "Take the key out of the open lock cabinet and close it";
+"The number on the key is the room number." = "The number on the key is the room number.";
+"" = "";
+"We will explain how to use the facility and precautions." = "We will explain how to use the facility and precautions.";
+"Front desk" = "Front desk";
+"The front desk is on the 1st floor of the building across from XXX. \nIf you have any questions, please come to the front desk." = "The front desk is on the 1st floor of the building across from XXX. \nIf you have any questions, please come to the front desk.";
+"Accommodation area" = "Accommodation area";
+"Please enter XXX in the building opposite the front desk, and our accommodation area is on the 4th and 5th floors. \nPlease do not enter 1F ~ 3F. \nSorry, this building does not have an elevator, so please use the stairs." = "Please enter XXX in the building opposite the front desk, and our accommodation area is on the 4th and 5th floors. \nPlease do not enter 1F ~ 3F. \nSorry, this building does not have an elevator, so please use the stairs.";
+"Floor map" = "Floor map";
+"Toilet location" = "Toilet location";
+"There is a men's restroom on the 4th floor and a women's restroom on the 5th floor. Please make sure there are no mistakes." = "There is a men's restroom on the 4th floor and a women's restroom on the 5th floor. Please make sure there are no mistakes.";
+"Shower room" = "Shower room";
+"There is one shower room on each floor on the 4th and 5th floors. Please be sure to lock the door when using. It can get crowded at night. There is also a public bath nearby, so please use it if you like. \nWe sell towels at the front desk. Soap and shampoo are provided. Please refrain from using the hair dryer after 22:00." = "There is one shower room on each floor on the 4th and 5th floors. Please be sure to lock the door when using. It can get crowded at night. There is also a public bath nearby, so please use it if you like. \nWe sell towels at the front desk. Soap and shampoo are provided. Please refrain from using the hair dryer after 22:00.";
+"Non smoking area" = "Non smoking area";
+"All rooms and buildings are non-smoking. When smoking, please use the 5F smoking area listed on the floor map. If we find that you have smoked in your room, we will charge you a cleaning fee." = "All rooms and buildings are non-smoking. When smoking, please use the 5F smoking area listed on the floor map. If we find that you have smoked in your room, we will charge you a cleaning fee.";
+"Shared kitchen" = "Shared kitchen";
+"There is a shared kitchen on the 5th floor. Since other customers will also use it, please clean it after use and take care so that the next customer can use it comfortably." = "There is a shared kitchen on the 5th floor. Since other customers will also use it, please clean it after use and take care so that the next customer can use it comfortably.";
+"Key handling when going out" = "Key handling when going out";
+"There is no need to leave your key at the front desk when you go out. Please manage by yourself. If you lose the key, we will charge a fee for reissuing the key. note that." = "There is no need to leave your key at the front desk when you go out. Please manage by yourself. If you lose the key, we will charge a fee for reissuing the key. note that.";
+"Check-out/Key return location" = "Check-out/Key return location";
+"Please check out by 10:00.\nIf you wish to extend your stay, please ask at the front desk." = "Please check out by 10:00.\nIf you wish to extend your stay, please ask at the front desk.";
+"If you check out before 9:00, there are key return boxes on the stairs on the 4th and 5th floors. Please return the key there. Please return the key to the front desk after 9:00." = "If you check out before 9:00, there are key return boxes on the stairs on the 4th and 5th floors. Please return the key there. Please return the key to the front desk after 9:00.";
+"Request for cooperation in collection of sheets and pillowcases" = "Request for cooperation in collection of sheets and pillowcases";
+"When checking out, please remove the pillowcases and sheets from the futon and put them in the collection bag near the stairs. Thank you for your cooperation." = "When checking out, please remove the pillowcases and sheets from the futon and put them in the collection bag near the stairs. Thank you for your cooperation.";
+"Luggage storage service" = "Luggage storage service";
+"After check-out, you can leave your luggage at the front desk for free on the same day. You can keep it until the closing time of the front desk." = "After check-out, you can leave your luggage at the front desk for free on the same day. You can keep it until the closing time of the front desk.";
+"Event announcement" = "Event announcement";
+"We regularly hold events such as movie screenings and parties. Please join us. Please contact the front desk staff for details." = "We regularly hold events such as movie screenings and parties. Please join us. Please contact the front desk staff for details.";
+"Describe the checkout procedure." = "Describe the checkout procedure.";
+"List other services." = "List other services.";
+
+//AlertModal
+"Call Send Success" = "Notification succeeded.\nPlease wait a moment for staff response.";
+"Call Send Failed" = "Notification failed.\nPlease contact us by another means.";
+//予約情報が見つからない場合
+"Reservation information not found." = "Reservation information not found.\nThe booking number may be incorrect or \nyou may have already checked in.\n Please return to the previous screen and enter again.";
+//SecondView QRCodeリーダー
+"Keep scanning for QR-codes" = "Keep scanning for QR-codes";
+"Read the QR code in the email when you made the reservation, or Please enter your reservation number." = "Read the QR code in the email \n when you made the reservation or \n please enter your reservation number.";
+
+//Privacy Policy
+"PRIVACY POLICY" = "PRIVACY POLICY";
+"Policy for handling private information" = "Policy for handling private information";
+"Us XXX.LCC, the operating company of XXX (hereinafter referred to as the company) handle personal information as required to running our business. We take seriously the importance of your personal information, and under the recognition that protection of personal information is our legal and social responsibility, all staff take great care to protect them." = "Us XXX.LCC, the operating company of XXX (hereinafter referred to as the company) handle personal information as required to running our business. We take seriously the importance of your personal information, and under the recognition that protection of personal information is our legal and social responsibility, all staff take great care to protect them.";
+"We have created the following list of policies to serve our responsibility as a company handling personal information. Here and onwards, the company and its staff will operate our business following these principals and serve to the development of society." = "We have created the following list of policies to serve our responsibility as a company handling personal information. Here and onwards, the company and its staff will operate our business following these principals and serve to the development of society.";
+"1. Collecting, handling and handing of personal information" = "1. Collecting, handling and handing of personal information";
+"When we collect personal information, we will inform the provider with the usage of information to obtain consensus. We will take proper measures to manage the use of information, by limiting its usage to be kept within our original purpose, and give the provider of information with the option to delete or change their information." ="When we collect personal information, we will inform the provider with the usage of information to obtain consensus. We will take proper measures to manage the use of information, by limiting its usage to be kept within our original purpose, and give the provider of information with the option to delete or change their information." ;
+"2. Managing risks such as information leakage" ="2. Managing risks such as information leakage";
+"We will take proper measures to prevent loss, destruction, falsification, leakage, theft, and other risks, and will act swiftly if such exceptional cases may occur." ="We will take proper measures to prevent loss, destruction, falsification, leakage, theft, and other risks, and will act swiftly if such exceptional cases may occur." ;
+"3. Policy for legal compliance" = "3. Policy for legal compliance";
+"We will keep to the law related to protection of personal information by ensuring the company and its staff learn, understand and reflect its meaning to the individual actions." = "We will keep to the law related to protection of personal information by ensuring the company and its staff learn, understand and reflect its meaning to the individual actions.";
+"4. Rights of personal information" = "4. Rights of personal information";
+"With regards to personal information we obtain through inquiries, questionnaire, resumes of job applicants and any other formats, when asked for disclosure by the original provider, or when asked to make change or discard the information, we will ensure to act as swiftly as possible." = "With regards to personal information we obtain through inquiries, questionnaire, resumes of job applicants and any other formats, when asked for disclosure by the original provider, or when asked to make change or discard the information, we will ensure to act as swiftly as possible.";
+"XXX.LCC" = "XXX.LCC";
+"Representative: Tomohiko Okabe" = "Representative: XXX" ;
+"Inquiry desk for privacy protection" = "Inquiry desk for privacy protection";
+"Contact point for personal information protection" = "Contact point for personal information protection";
+"TEL:" = "TEL:" ;
