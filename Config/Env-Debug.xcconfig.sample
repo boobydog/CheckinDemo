@@ -1,0 +1,25 @@
+// Env-*.xcconfig のサンプル
+// このファイルを拡張子 .sample を除いた名前でコピーし、値を設定してください。
+//   cp Config/Env-Debug.xcconfig.sample Config/Env-Debug.xcconfig
+// ※ xcconfig では "//" 以降がコメント扱いになるため、URL を書く場合は "https:/$()/..." と記述する
+
+// Google Sign-In（Google Cloud Console で発行した iOS 用 OAuth クライアント ID）
+GOOGLE_API_CLIENT_ID = YOUR_CLIENT_ID.apps.googleusercontent.com
+GOOGLE_API_REVERSED_CLIENT_ID = com.googleusercontent.apps.YOUR_CLIENT_ID
+
+// チェックイン・予約を管理する Google スプレッドシート
+GOOGLE_API_SHEET_ID = YOUR_SPREADSHEET_ID
+GOOGLE_API_RESERVATION_SHEET_RANGE = reservation!A2:Z
+GOOGLE_API_CHECKIN_SHEET_RANGE = checkin!A2:Z
+
+// 身分証明書画像を保存する Google Drive フォルダ ID
+GOOGLE_API_IMAGE_DIRECTORY_ID = YOUR_DRIVE_FOLDER_ID
+
+// ChatWork 通知
+CHATWORK_TOKEN = YOUR_CHATWORK_API_TOKEN
+CHATWORK_ROOM_ID = YOUR_CHATWORK_ROOM_ID
+
+// ヘルプ画面などに表示する連絡先
+TEL = 000-0000-0000
+CELLPHONE = 000-0000-0000
+EMAIL = info@example.com

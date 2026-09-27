@@ -1,0 +1,3 @@
+// Debug ビルド用の共通設定（秘密情報は書かない）
+// 実際の値は Env-Debug.xcconfig に記述する（Git 管理外）
+#include? "Env-Debug.xcconfig"

@@ -1,0 +1,161 @@
+/*
+  Localizable.strings
+  CheckinApp
+
+  Created by j-sys on 2022/06/14.
+  
+*/
+//SelectQRView
+"I don't have QR Code" = "QR 코드가 없습니다.";
+"Read QR Code" = "QR 코드 읽기";
+"Next" = "다음";
+//CheckinFormView
+"Name" = "이름";
+"Address" = "주소";
+"Phone Number" = "전화 번호";
+"Checkin Input Form"="체크인 입력 양식";
+"Reservation number" = "예약번호";
+"Room Type" = "객실 타입";
+"Number of people" = "투숙객님 인원";
+"Number of rooms" = "객실 수";
+"Check in date"  = "체크인 날짜";
+"Check out date"  = "체크아웃 날짜";
+"Payment" = "지불금액";
+"Payment status" = "지불 상황";
+"Paid" = "결제됨";
+"Unpaid" = "미회계";
+"Guest input information" = "숙박자님 정보 입력란";
+"Required" = "필수";
+"Optional" = "선택";
+"Country of residence" = "거주 국가";
+"Nationality" = "국적";
+"Representative name" = "대표자 성명";
+"Email" = "Email";
+"Phone number" = "전화번호";
+"Country IDD code" = "국가 코드";
+"Address" = "주소";
+"Passport picture" = "여권 이미지";
+"Reservation info" = "예약 정보";
+"Representative guest" = "대표 숙박자";
+"Other guest" = "기타 숙박자";
+"Living in Japan" = "일본 국내 거주";
+"Living outside Japan" = "일본 이외의 국가에 거주";
+"I agree to the privacy policy." = "개인정보 취급 약관에 동의합니다.";
+"Check in" = "Check in";
+"Check in with the information you entered. Is it OK?" = "입력한 정보로 체크인합니다. 괜찮아?";
+"Payment required" = "결제가 완료되지 않았습니다.";
+"Since your payment has not been completed,\nstaff action is required. \nPlease contact the staff from the help button." = "결제가 완료되지 않았기 때문에 직원의 대응이 필요합니다.\n도움말 버튼에서 직원에게 문의하십시오.";
+"Paid. Execute check-in." = "지불 완료. 체크인합니다.";
+//CompleteView
+"XXX Password" = "XXX 비밀번호";
+"Checkin has Completed" = "체크인이 완료되었습니다";
+"Enter your XXX password into the terminal and receive your key." = "XXX 비밀번호를 기기에 입력하고 키를 받으세요";
+"I received my key.\nReturn to first screen." = "열쇠를 받았습니다\n첫 화면으로 돌아갑니다";
+//common
+"Run" = "실행하다";
+"Cancel" = "취소";
+"Confirm"="확인하다";
+" is" = "은";
+" ." = " .";
+" name" = " 이름";
+" passport picture" = " 여권 이미지";
+"Go Back" = "뒤로";
+//Error
+" required" = " 필수 항목입니다";
+
+"Nationality is required." = "국적은 필수입니다.";
+"Phone number is required." = "전화번호는 필수입니다.";
+"Representative guest name is required." = "숙박 대표자의 성명은 필수입니다.";
+"Representative guest passport picture is required." = "숙박 대표자의 여권 사진은 필수입니다.";
+"Other guest name is required." = "기타 숙박자의 성명은 필수입니다.";
+"Other guest passport picture is required." =  "기타 투숙객의 여권 사진은 필수입니다.";
+
+"Please agree to the privacy policy." = "개인정보 취급 규약의 동의가 필요합니다.";
+"There is an error in the format of the email." = "이메일 형식에 오류가 있습니다.";
+//PrivacyPolicy
+"Privacy Policy" = "개인정보 취급규약";
+//Help
+"HELP" = "HELP";
+"Call the staff" = "스태프를 부른다";
+"Check-in Instructions" = "체크인 절차";
+"How to get your key" = "키를 받는 방법";
+"How to use the facility" = "시설 이용 방법";
+"Check-out Instructions" = "체크아웃 절차";
+"Other Services" = "기타 서비스";
+"If you are in a hurry, please contact us at the contact information below." = "급한 경우는 수고스럽지만 아래 연락처로 연락주십시오.";
+
+"Describe the check-in procedure" = "체크인 절차를 안내합니다.";
+"Language selection" = "언어 선택";
+"First, select your language on the top page of the check-in app." = "체크인 앱의 톱 페이지에서 먼저 사용하는 언어를 선택하십시오.";
+"Enter your reservation number" = "예약 번호 입력";
+"Please read the QR code of the reservation number described in the reservation completion email sent from us at the time of reservation. Alternatively, enter the reservation number provided in the email and tap \"Next\"." = "예약 시 당사에서 발송한 예약 완료 메일에 기재되어 있는 예약 번호의 QR 코드를 읽어 주십시오. 또는 이메일에 기재된 예약 번호를 입력하고 \'다음\'을 탭하세요.";
+"Enter customer information" = "고객 정보 입력";
+"Once the reservation has been confirmed based on the reservation number entered by the customer, the screen will transition to the customer information input screen. \nPlease enter the necessary information for the representative and all guests to complete check-in. \nIf you do not live in Japan, you are required to take a photo of your ID card with a face photo, such as a passport, so please take a photo from yesterday on the form. \nIf you have not paid yet, please contact the staff. Please call the staff from the help button on the upper right of the screen." = "고객님이 입력하신 예약번호를 바탕으로 예약을 확인할 수 있으면, 고객정보의 입력화면으로 이행합니다. \n대표자와 투숙객 모두에게 필요한 사항을 입력하여 체크인을 완료하세요. \n일본에 거주하지 않는 경우는 여권등 얼굴 사진 첨부의 신분증의 촬영이 의무지워지고 있으므로, 폼의 어제부터 촬영해 주세요. \n지불이 아직 있을 경우 직원의 대응이 필요합니다. 화면 오른쪽 상단의 도움말 버튼에서 직원을 호출합니다.";
+"Key pick-up" = "열쇠 수령";
+"After successful check-in, a serial number for key collection will be displayed. Enter the serial number into the terminal called XXX and receive the key. \nPlease refer to the following for the operation procedure of the terminal." = "체크인이 성공적으로 완료되면 키 수신을 위한 일련 번호가 표시됩니다. XXX라는 터미널에 일련 번호를 입력하고 키를 받으십시오. \n단말기의 조작 순서는 이하를 참고로 부탁드립니다.";
+
+"We will explain how to operate the XXX terminal when receiving the key." = "열쇠 수령시 XXX 단말기의 조작 방법을 설명하겠습니다.";
+"We have automated the receipt of keys, and we have introduced a mechanism to receive them from a terminal called XXX. The procedure is described below." = "키의 수취를 자동화하고 있어, XXX라고 하는 단말로부터 받는 것과 같은 구조를 도입하고 있습니다. 아래 절차를 설명합니다.";
+"Touch the touch panel of XXX" = "XXX 터치 패널을 터치합니다.";
+"Choose your language" = "언어를 선택합니다.";
+"Select key pick-up" = "키 수신을 선택합니다.";
+"Enter key code" = "키 코드를 입력합니다.";
+"Select the name of the key you will receive" = "받을 키의 이름을 선택합니다.";
+"Take the key out of the open lock cabinet and close it" = "열린 키 캐비닛에서 키를 꺼내고 닫습니다.";
+"The number on the key is the room number." = "열쇠에 기재된 번호가 방 번호입니다.";
+"" = "";
+"We will explain how to use the facility and precautions." = "시설의 이용 방법에 ・주의사항 붙여 설명 하겠습니다.";
+"Front desk" = "프런트 데스크";
+"The front desk is on the 1st floor of the building across from XXX. \nIf you have any questions, please come to the front desk." = "프런트 데스크는 XXX 맞은편 빌딩 1층입니다. \n무엇이 있으면 프런트까지 오세요.";
+"Accommodation area" = "숙박 구역";
+"Please enter XXX in the building opposite the front desk, and our accommodation area is on the 4th and 5th floors. \nPlease do not enter 1F ~ 3F. \nSorry, this building does not have an elevator, so please use the stairs." = "프런트 맞은 편의 빌딩의 XXX에 들어가 주셔, 4F 5F가 저희의 숙박 구역이 되고 있습니다. \n1F ~ 3F는 들어가지 않도록 부탁드립니다. \n죄송합니다. 이 건물에는 엘리베이터가 설치되어 있지 않으므로 계단을 이용하십시오.";
+"Floor map" = "플로어 맵";
+"Toilet location" = "화장실 위치";
+"There is a men's restroom on the 4th floor and a women's restroom on the 5th floor. Please make sure there are no mistakes." = "4F가 남성 5F가 여성의 화장실이 있습니다. 실수하지 않도록 부탁드립니다.";
+"Shower room" = "샤워룸";
+"There is one shower room on each floor on the 4th and 5th floors. Please be sure to lock the door when using. It can get crowded at night. There is also a public bath nearby, so please use it if you like. \nWe sell towels at the front desk. Soap and shampoo are provided. Please refrain from using the hair dryer after 22:00." = "4F 5F 각 층에 하나의 샤워 룸이 설치되어 있습니다. 이용시에는 반드시 열쇠를 닫아 이용해 주십시오. 야간은 혼잡할 수 있습니다. 근처에 목욕탕도 있으므로 괜찮으시면 이용하십시오. \n타월은 프런트에서 판매하고 있습니다. 비누와 샴푸는 비치한 것이 있습니다. 드라이어는 22시 이후의 이용은 삼가해 주십시오.";
+"Non smoking area" = "금연 구역";
+"All rooms and buildings are non-smoking. When smoking, please use the 5F smoking area listed on the floor map. If we find that you have smoked in your room, we will charge you a cleaning fee." = "객실・건물내는 모두 금연입니다. 흡연 시에는 플로어 맵에 기재된 5F 흡연 구역을 이용해 주십시오. 객실에서 흡연이 발생한 경우에는 청소비를 청구하겠습니다.";
+"Shared kitchen" = "공용 주방";
+"There is a shared kitchen on the 5th floor. Since other customers will also use it, please clean it after use and take care so that the next customer can use it comfortably." = "5F에는 공용 주방이 있습니다. 다른 손님도 이용되기 때문에, 사용 후는 청소 받고, 다음의 손님도 기분 좋게 이용하실 수 있도록 배려 부탁드립니다.";
+"Key handling when going out" = "외출시 열쇠 취급";
+"There is no need to leave your key at the front desk when you go out. Please manage by yourself. If you lose the key, we will charge a fee for reissuing the key. note that." = "외출시는 열쇠는 프런트에 맡길 필요는 없습니다. 직접 관리 부탁드립니다. 열쇠를 분실한 경우, 열쇠의 재발행에 수수료를 받습니다. 양해 바랍니다.";
+"Check-out/Key return location" = "체크아웃·열쇠의 반환 장소";
+"Please check out by 10:00.\nIf you wish to extend your stay, please ask at the front desk." = "체크아웃은 10:00까지 부탁드립니다.\n연박을 희망하시는 경우는 프런트에서 말씀해 주십시오.";
+"If you check out before 9:00, there are key return boxes on the stairs on the 4th and 5th floors. Please return the key there. Please return the key to the front desk after 9:00." = "9:00 이전에 체크아웃을 하시는 경우는 4F와 5F의 계단에 열쇠의 반환 박스가 있습니다. 그 곳에 열쇠를 반환하십시오. 9:00 이후는 프런트에 열쇠를 반환 받도록 부탁드립니다.";
+"Request for cooperation in collection of sheets and pillowcases" = "시트・베개 커버 회수의 협력 부탁";
+"When checking out, please remove the pillowcases and sheets from the futon and put them in the collection bag near the stairs. Thank you for your cooperation." = "체크아웃 시에는 베개 커버와 시트를 이불에서 떼어내 계단 근처의 회수봉투에 넣어 주세요. 협조 부탁드립니다.";
+"Luggage storage service" = "수하물 보관 서비스";
+"After check-out, you can leave your luggage at the front desk for free on the same day. You can keep it until the closing time of the front desk." = "체크아웃 후에도 당일이면 프런트에서 무료로 짐을 맡아드립니다. 리셉션의 폐점 시간까지 보관 가능합니다.";
+"Event announcement" = "이벤트 알림";
+"We regularly hold events such as movie screenings and parties. Please join us. Please contact the front desk staff for details." = "영화 상영회나 파티 등 정기적으로 이벤트를 실시하고 있습니다. 꼭 참가해 주십시오. 자세한 내용은 리셉션 직원에게 문의하십시오.";
+"Describe the checkout procedure." = "체크아웃 절차를 안내합니다.";
+"List other services." = "기타 서비스를 기재합니다.";
+
+//AlertModal
+"Call Send Success" = "알림에 성공했습니다.\n직원의 대응까지 잠시 기다려주십시오.";
+"Call Send Failed" = "알림에 실패했습니다.\n다른 수단으로 연락하십시오.";
+//予約情報が見つからない場合
+"Reservation information not found." = "예약 정보를 찾을 수 없습니다.\n예약 번호가 잘못되었거나\n 이미 체크인되었을 수 있습니다.\n이전 화면으로 돌아가서 다시 입력하십시오.";
+//SecondView QRCodeリーダー
+"Keep scanning for QR-codes"="귀하의 QR 코드를 잡으십시오.";
+"Read the QR code in the email when you made the reservation, or Please enter your reservation number." = "예약시 메일에 기재된 QR 코드를 읽거나,\n예약 번호를 입력하세요.";
+
+//Privacy Policy
+"PRIVACY POLICY" = "개인정보 취급규약";
+"Policy for handling private information" = "개인 정보 보호 정책";
+"Us XXX..LCC, the operating company of XXX. (hereinafter referred to as the company) handle personal information as required to running our business. We take seriously the importance of your personal information, and under the recognition that protection of personal information is our legal and social responsibility, all staff take great care to protect them." = "요코하마 호스텔 빌리지 XXX.를 운영하는 XXX. 합동회사(이하, 당사)는 업무 수행상 개인정보를 취급하고 있습니다. 고객의 개인정보는 매우 중요한 정보이며, 그 개인정보의 보호는 사회적 책무와의 인식하에 전 직원 일환이 되어 임하고 있습니다.";
+"We have created the following list of policies to serve our responsibility as a company handling personal information. Here and onwards, the company and its staff will operate our business following these principals and serve to the development of society." = "당사는 개인정보를 취급하는 기업으로서의 책임을 완수하기 위해 다음의 방침을 책정했습니다. 향후 당사 및 전 사원은, 이 방침에 따라 사업 운영에 노력해, 사회에 공헌해 가고 싶다고 생각하고 있습니다.";
+"1. Collecting, handling and handing of personal information" = "1. 개인정보의 수집·이용·제공 등에 관한 방침";
+"When we collect personal information, we will inform the provider with the usage of information to obtain consensus. We will take proper measures to manage the use of information, by limiting its usage to be kept within our original purpose, and give the provider of information with the option to delete or change their information." ="개인정보의 수집에 관하여, 그 이용방법에 대해서 사전에 제공자에게 동의를 취하는 것으로 하고, 그 이용에 대해서 적절하게 관리하고, 당사 사업범위의 목적내에 한정하고, 또 제공자의 희망에 의해 삭제나 정정을 할 수 있다 엄격한 관리를 수행하기 위해 노력합니다." ;
+"2. Managing risks such as information leakage" ="2. 개인정보 유출 등의 리스크 대책에 관한 방침";
+"We will take proper measures to prevent loss, destruction, falsification, leakage, theft, and other risks, and will act swiftly if such exceptional cases may occur." ="당사가 보유한 고객의 개인정보에 관하여, 분실·파괴·조절·누설·섭취 등의 방지에 관하여, 그 예방책을 강구해 엄격하게 실행해, 또 비상사태시에는 신속한 대책 처리에 노력합니다." ;
+"3. Policy for legal compliance" = "3. 개인정보에 관한 법령 및 기타 규범의 준수에 관한 방침";
+"We will keep to the law related to protection of personal information by ensuring the company and its staff learn, understand and reflect its meaning to the individual actions." = "개인정보보호에 관한 제법령과 그 관련 제법령의 정신을 당사 및 전사원이 필요에 따라 학습하고 충분히 이해하고 일상적인 행동에 반영함으로써 그 준수에 노력합니다.";
+"4. Rights of personal information" = "4. 개인정보의 권리에 관한 정책";
+"With regards to personal information we obtain through inquiries, questionnaire, resumes of job applicants and any other formats, when asked for disclosure by the original provider, or when asked to make change or discard the information, we will ensure to act as swiftly as possible." = "자료 청구, 앙케이트, 채용·체크인에 있어서의 엔트리 폼등에 의해 맡기는 개인정보에 관하여, 자기의 정보의 개시를 요구받았을 경우, 또 잘못이 있어, 정정·삭제를 요구되었을 경우, 합리적인 범위 신속하게 대응하기 위해 노력합니다.";
+"XXX.LCC" = "XXX.";
+"Representative: XXX" = "대표자 XXX";
+"Inquiry desk for privacy protection" = "개인정보 취급에 관한 문의처";
+"Contact point for personal information protection" = "개인 정보 보호 담당 창구";
+"TEL:" = "TEL:" ;

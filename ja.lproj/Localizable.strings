@@ -1,0 +1,163 @@
+/*
+  Localizable.strings
+  CheckinApp
+
+  Created by j-sys on 2022/06/14.
+  
+*/
+//SelectQRView
+"I don't have QR Code" = "QRコードを持っていません。";
+"Read QR Code" ="QRコードを読み込む";
+"Next" = "次へ";
+//CheckinFormView
+"Name" = "氏名";
+"Address" = "住所";
+"Phone Number" = "電話番号";
+"Checkin Input Form"="チェックイン入力フォーム";
+"Reservation number" = "ご予約番号";
+"Room Type" = "お部屋タイプ";
+"Number of people" = "ご宿泊者様人数";
+"Number of rooms" = "お部屋数";
+"Check in date"  = "チェックイン日付";
+"Check out date"  = "チェックアウト日付";
+"Payment status" = "お支払いステータス";
+"Payment" = "お支払い金額";
+"Paid" = "お会計済";
+"Unpaid" = "未会計";
+"Guest input information" = "ご宿泊者様情報入力欄";
+"Required" = "必須";
+"Optional" = "任意";
+"Country of residence" = "居住国";
+"Nationality" = "国籍";
+"Representative name" = "代表者氏名";
+"Email" = "Email";
+"Phone number" = "電話番号";
+"Country IDD code" = "国際コード";
+"Address" = "住所";
+"Passport picture" = "パスポート画像";
+"Reservation info" = "ご予約情報";
+"Representative guest" = "ご宿泊代表者様";
+"Other guest" = "ご宿泊者様";
+"Living in Japan" = "日本国内在住";
+"Living outside Japan" = "日本以外の国に在住";
+"I agree to the privacy policy." = "個人情報取り扱い規約に同意します。";
+"Check in" = "チェックイン";
+"Check in with the information you entered. Is it OK?" = "入力した情報でチェックインします。よろしいですか？";
+"Payment required" = "お支払いが未完了です。";
+"Since your payment has not been completed,\nstaff action is required. \nPlease contact the staff from the help button." = "支払いが未完了のため、\nスタッフの対応が必要です。\nヘルプボタンから\nスタッフにお問い合わせください。";
+"Paid. Execute check-in." = "支払い済。チェックインします。";
+//CompleteView
+"XXX Password" = "XXX パスワード";
+"Checkin has Completed" = "チェックインが完了しました";
+"Enter your XXX password into the terminal and receive your key." = "XXXパスワードを端末に入力し、\n鍵を受け取ってください";
+"I received my key.\nReturn to first screen." = "鍵を受け取りました\n最初の画面に戻る";
+//common
+"Run" = "実行する";
+"Cancel" = "キャンセル";
+"Confirm"="確定";
+" is" = " は";
+" ." = " 。";
+" name" = " 氏名";
+" passport picture" = " パスポート画像";
+"Go Back" = "戻る";
+//Error
+" required" = " 必須入力です";
+
+"Nationality is required." = "国籍は必須です。";
+"Phone number is required." = "電話番号は必須です。";
+"Representative guest name is required." = "ご宿泊代表者様の氏名は必須です。";
+"Representative guest passport picture is required." = "ご宿泊代表者様のパスポート写真は必須です。";
+"Other guest name is required." = "ご宿泊者様の氏名は必須です。";
+"Other guest passport picture is required." =  "ご宿泊者様のパスポート写真は必須です。";
+
+"Please agree to the privacy policy." = "個人情報取り扱い規約の同意が必要です。";
+"There is an error in the format of the email." = "メールの形式に誤りがあります。";
+//PrivacyPolicy
+"Privacy Policy" = "個人情報取り扱い規約";
+//Help
+"HELP" = "HELP";
+"Call the staff" = "スタッフを呼ぶ";
+"Check-in Instructions" = "チェックイン手順";
+"How to get your key" = "鍵の受け取り方法";
+"How to use the facility" = "施設のご利用方法";
+"Check-out Instructions" = "チェックアウト手順";
+"Other Services" = "その他サービス";
+"If you are in a hurry, please contact us at the contact information below." = "お急ぎの場合はお手数ですが、\n下記連絡先までご連絡ください。";
+
+"Describe the check-in procedure" = "チェックイン手順を記載します";
+"Language selection" = "言語の選択";
+"First, select your language on the top page of the check-in app." = "チェックインアプリのトップページにて、まずご使用の言語を選択してください。";
+"Enter your reservation number" = "ご予約番号の入力";
+"Please read the QR code of the reservation number described in the reservation completion email sent from us at the time of reservation. Alternatively, enter the reservation number provided in the email and tap \"Next\"." = "ご予約時に弊社から送られた予約完了メールに記載記載されている予約番号のQRコードを読み込ませてください。または、メールに記載の予約番号を入力し「次へ」タップしてください。";
+"Enter customer information" = "お客様情報の入力";
+"Once the reservation has been confirmed based on the reservation number entered by the customer, the screen will transition to the customer information input screen. \nPlease enter the necessary information for the representative and all guests to complete check-in. \nIf you do not live in Japan, you are required to take a photo of your ID card with a face photo, such as a passport, so please take a photo from yesterday on the form. \nIf you have not paid yet, please contact the staff. Please call the staff from the help button on the upper right of the screen." = "お客様にご入力頂いた予約番号をもとにご予約が確認できましたら、お客様情報の入力画面に遷移します。\n代表者様と、ご宿泊者様全員の必要事項を入力しチェックインを完了してください。\n日本にお住まいでない場合はパスポート等顔写真付きの身分証の撮影が義務付けられておりますので、フォームの昨日から撮影ください。\nお支払いがまだの場合はスタッフの対応が必要です。画面右上のヘルプボタンからスタッフを呼び出してください。";
+"Key pick-up" = "鍵の受け取り";
+"After successful check-in, a serial number for key collection will be displayed. Enter the serial number into the terminal called XXX and receive the key. \nPlease refer to the following for the operation procedure of the terminal." = "正常にチェックインが完了すると、鍵の受け取りのためのシリアルナンバーが表示されます。XXXという端末にシリアルナンバーを入力し鍵を受け取ってください。\n端末の操作手順は以下を参考にお願い致します。";
+
+"We will explain how to operate the XXX terminal when receiving the key." = "鍵の受け取りの際のXXX端末の操作方法をご説明致します。";
+"We have automated the receipt of keys, and we have introduced a mechanism to receive them from a terminal called XXX. The procedure is described below." = "鍵の受け取りを自動化しておりまして、XXXという端末から受け取るような仕組みを導入しております。以下に手順を記載します。";
+"Touch the touch panel of XXX" = "XXXのタッチパネルに触れます";
+"Choose your language" = "言語を選択します";
+"Select key pick-up" = "鍵の受け取りを選択します";
+"Enter key code" = "キーコードを入力します";
+"Select the name of the key you will receive" = "受け取る鍵の名前を選択します";
+"Take the key out of the open lock cabinet and close it" = "開いた鍵キャビネットから鍵を取り出して閉じます";
+"The number on the key is the room number." = "鍵に記載されている番号が部屋番号です。";
+"" = "";
+"We will explain how to use the facility and precautions." = "施設のご利用方法に・注意事項ついてご説明致します。";
+"Front desk" = "フロントデスク";
+"The front desk is on the 1st floor of the building across from XXX. \nIf you have any questions, please come to the front desk." = "フロントはXXXの向かいのビル1Fです。\n何かございましたらフロントまでお越し下さい。";
+"Accommodation area" = "宿泊エリア";
+"Please enter XXX in the building opposite the front desk, and our accommodation area is on the 4th and 5th floors. \nPlease do not enter 1F ~ 3F. \nSorry, this building does not have an elevator, so please use the stairs." = "フロントの向かいのビルのXXXに入っていただき、 4F 5Fが弊社の宿泊エリアとなっております。\n1F ~ 3Fは　立ち入らないようにお願い致します。\n申し訳ございませんが、この建物にはエレベーターが設置されていないため、階段をご利用ください。";
+"Floor map" = "フロアマップ";
+"Toilet location" = "トイレの場所";
+"There is a men's restroom on the 4th floor and a women's restroom on the 5th floor. Please make sure there are no mistakes." = "4Fが男性 5Fが女性のお手洗いがございます。お間違いのないようお願い致します。";
+"Shower room" = "シャワールーム";
+"There is one shower room on each floor on the 4th and 5th floors. Please be sure to lock the door when using. It can get crowded at night. There is also a public bath nearby, so please use it if you like. \nWe sell towels at the front desk. Soap and shampoo are provided. Please refrain from using the hair dryer after 22:00." = "4F 5F各階に 1つシャワールームが設置されています。ご利用の際は必ず鍵を閉めてご利用ください。夜間は混み合う場合があります。近くに銭湯もございますのでよろしければご利用ください。\nタオルはフロントにて販売致しております。石鹸とシャンプーは備え付けのものがございます。ドライヤーは22時以降のご利用はお控えください。";
+"Non smoking area" = "禁煙エリア";
+"All rooms and buildings are non-smoking. When smoking, please use the 5F smoking area listed on the floor map. If we find that you have smoked in your room, we will charge you a cleaning fee." = "お部屋・建物内はすべて禁煙です。ご喫煙の際はフロアマップに記載の5F喫煙エリアをご利用ください。お部屋で喫煙されたことが発覚した場合、クリーニング代を請求させていただきます。";
+"Shared kitchen" = "共用キッチン";
+"There is a shared kitchen on the 5th floor. Since other customers will also use it, please clean it after use and take care so that the next customer can use it comfortably." = "5Fには共用のキッチンがございます。他のお客様もご利用されますので、使用後は清掃頂き、次のお客さまも気持ちよくご利用頂けるようご配慮お願い致します。";
+"Key handling when going out" = "外出時の鍵の取り扱い";
+"There is no need to leave your key at the front desk when you go out. Please manage by yourself. If you lose the key, we will charge a fee for reissuing the key. note that." = "外出時は鍵はフロントに預ける必要はございません。ご自身で管理お願い致します。鍵を紛失した場合、鍵の再発行に手数料を頂きます。ご了承ください。";
+"Check-out/Key return location" = "チェックアウト・鍵の返却場所";
+"Please check out by 10:00.\nIf you wish to extend your stay, please ask at the front desk." = "チェックアウトは10:00までにお願い致します。\n延泊をご希望の場合はフロントにてお申し付けください。";
+"If you check out before 9:00, there are key return boxes on the stairs on the 4th and 5th floors. Please return the key there. Please return the key to the front desk after 9:00." = "9:00よりも前にチェックアウトをする場合は4Fと5Fの階段に鍵の返却ボックスがございます。そちらに鍵を返却してください。9:00以降はフロントに鍵を返却頂くようお願い致します。";
+"Request for cooperation in collection of sheets and pillowcases" = "シーツ・枕カバー回収のご協力のお願い";
+"When checking out, please remove the pillowcases and sheets from the futon and put them in the collection bag near the stairs. Thank you for your cooperation." = "チェックアウトの際は枕カバーとシーツをふとんから外し、階段近くの回収袋に入れてください。ご協力お願い致します。";
+"Luggage storage service" = "荷物のお預かりサービス";
+"After check-out, you can leave your luggage at the front desk for free on the same day. You can keep it until the closing time of the front desk." = "チェックアウト後も当日であればフロントにて無料でお荷物をお預かり致します。フロントの閉店時間までお預かり可能です。";
+"Event announcement" = "イベントのお知らせ";
+"We regularly hold events such as movie screenings and parties. Please join us. Please contact the front desk staff for details." = "映画の上映会やパーティーなど定期的にイベントを実施しています。ぜひご参加ください。詳細はフロントスタッフにお問い合わせください。";
+"Describe the checkout procedure." = "チェックアウトの手順を記載します。";
+"List other services." = "その他のサービスを記載します。";
+
+//AlertModal
+"Call Send Success" = "通知に成功しました。スタッフの対応までしばらくお待ちください。";
+"Call Send Failed" = "通知に失敗しました。別の方法で対応してください。";
+//予約情報が見つからない場合
+"Reservation information not found." = "予約情報が見つかりません。\n予約番号が間違っているか、既にチェックイン済みです。\n前の画面に戻り、再度入力し直してください。";
+//SecondView QRCodeリーダー
+"Keep scanning for QR-codes"="お手持ちのQRコードをかざしてください。";
+"Read the QR code in the email when you made the reservation, or Please enter your reservation number." = "ご予約確認メールに記載されている\nQRコードを読み込むか、\n予約番号を入力してください。";
+
+//Privacy Policy
+"PRIVACY POLICY" = "PRIVACY POLICY";
+"Policy for handling private information" = "個人情報保護方針";
+"Us XXX.LCC, the operating company of XXX (hereinafter referred to as the company) handle personal information as required to running our business. We take seriously the importance of your personal information, and under the recognition that protection of personal information is our legal and social responsibility, all staff take great care to protect them." = "XXXを運営するXXX (以下、当社) は、業務遂行上、個人情報を取扱っております。お客様の個人情報は大変重要な情報であり、その個人情報の保護は社会的責務との認識のもとに、全社員一丸となって取り組んでおります。";
+"We have created the following list of policies to serve our responsibility as a company handling personal information. Here and onwards, the company and its staff will operate our business following these principals and serve to the development of society." = "当社は個人情報を取扱う企業としての責任を果たすべく以下の方針を策定しました。今後当社及び全社員は、この方針にそって事業運営に努め、社会に貢献していきたいと考えております。";
+"1. Collecting, handling and handing of personal information" = "1.個人情報の収集・利用・提供などに関する方針";
+"When we collect personal information, we will inform the provider with the usage of information to obtain consensus. We will take proper measures to manage the use of information, by limiting its usage to be kept within our original purpose, and give the provider of information with the option to delete or change their information." ="個人情報の収集に関し、その利用方法について事前に提供者に同意をとることとし、その利用について適切に管理し、当社事業範囲の目的内に限定し、また提供者の希望により削除や訂正ができるものなどして、厳格な管理を行なうことに努めます。" ;
+"2. Managing risks such as information leakage" ="2.個人情報漏洩などのリスク対策に関する方針";
+"We will take proper measures to prevent loss, destruction, falsification, leakage, theft, and other risks, and will act swiftly if such exceptional cases may occur." ="当社が保有するお客様の個人情報に関して、紛失・破壊・改ざん・漏洩・摂取などの防止に関して、その予防策を講じ厳格に実行し、また非常事態時には迅速な対策処理に努めます。" ;
+"3. Policy for legal compliance" = "3.個人情報に関する法令やその他規範の遵守に関する方針";
+"We will keep to the law related to protection of personal information by ensuring the company and its staff learn, understand and reflect its meaning to the individual actions." = "個人情報保護に関する諸法令やその関連諸法令の精神を、当社及び全社員が必要に応じて学習し、十分理解し日々の行動に反映させることで、その遵守に努めます。";
+"4. Rights of personal information" = "4.個人情報の権利に関する方針";
+"With regards to personal information we obtain through inquiries, questionnaire, resumes of job applicants and any other formats, when asked for disclosure by the original provider, or when asked to make change or discard the information, we will ensure to act as swiftly as possible." = "資料請求、アンケート、採用・チェックインにおけるエントリーフォーム等によりお預かりする個人情報に関して、自己の情報の開示を求められた場合、また誤りがあり、訂正・削除を求められた場合、合理的な範囲ですみやかに対応することに努めます。";
+"XXX.LCC" = "XXX";
+"Representative: XXX" = "代表者 XXX" ;
+"Inquiry desk for privacy protection" = "個人情報の取り扱いに関するお問い合わせ先";
+"Contact point for personal information protection" = "個人情報保護窓口担当者";
+"TEL:XXX" = "TEL:XXX" ;
+//
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19206" systemVersion="20G165" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Checkin" representedClassName="Checkin" syncable="YES">
+        <attribute name="address" optional="YES" attributeType="String"/>
+        <attribute name="booking_id" optional="YES" attributeType="String"/>
+        <attribute name="email" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="idd_code" optional="YES" attributeType="String"/>
+        <attribute name="identification" optional="YES" attributeType="Binary"/>
+        <attribute name="insert_at" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="nationality" optional="YES" attributeType="String"/>
+        <attribute name="residence_country" optional="YES" attributeType="String"/>
+        <attribute name="tel" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Reservation" representedClassName="Reservation" syncable="YES">
+        <attribute name="address" optional="YES" attributeType="String"/>
+        <attribute name="amount" optional="YES" attributeType="String"/>
+        <attribute name="booking_id" optional="YES" attributeType="String"/>
+        <attribute name="checkin_at" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="checkin_flag" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="checkout_at" optional="YES" attributeType="Date" usesScalarValueType="NO"/>
+        <attribute name="email" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="UUID" usesScalarValueType="NO"/>
+        <attribute name="key_code" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="num_of_people" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="num_of_rooms" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="paid_flag" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="room_type" optional="YES" attributeType="String"/>
+        <attribute name="tel" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Checkin" positionX="-63" positionY="-18" width="128" height="194"/>
+        <element name="Reservation" positionX="-63" positionY="-9" width="128" height="254"/>
+    </elements>
+</model>

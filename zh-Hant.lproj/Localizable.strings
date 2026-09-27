@@ -1,0 +1,161 @@
+/*
+  Localizable.strings
+  CheckinApp
+
+  Created by j-sys on 2022/06/14.
+  
+*/
+//SelectQRView
+"I don't have QR Code" = "我沒有二維碼";
+"Read QR Code" = "讀取二維碼";
+"Next" = "轉到下一頁";
+//CheckinFormView
+"Name" = "姓名";
+"Address" = "地址";
+"Phone Number" = "電話號碼";
+"Checkin Input Form"="簽到輸入表";
+"Reservation number" = "預約號碼";
+"Room Type" = "房型";
+"Number of people" = "賓客人數";
+"Number of rooms" = "房間的數量";
+"Check in date"  = "登記日期";
+"Check out date"  = "離開日期";
+"Payment" = "支付";
+"Payment status" = "支付狀態";
+"Paid" = "有薪酬的";
+"Unpaid" = "下落不明";
+"Guest input information" = "客人信息輸入欄";
+"Required" = "必需";
+"Optional" = "任何";
+"Country of residence" = "居住國家";
+"Nationality" = "國籍";
+"Representative name" = "代表姓名";
+"Email" = "電子郵件";
+"Phone number" = "電話號碼";
+"Country IDD code" = "國家代碼";
+"Address" = "地址";
+"Passport picture" = "護照照片";
+"Reservation info" = "預訂信息";
+"Representative guest" = "代表嘉賓";
+"Other guest" = "其他客人";
+"Living in Japan" = "住在日本";
+"Living outside Japan" = "住在日本以外";
+"I agree to the privacy policy." = "我同意隱私政策。";
+"Check in" = "報到";
+"Check in with the information you entered. Is it OK?" = "使用您輸入的信息進行登記。 可以嗎？";
+"Payment required" = "您的付款不完整。";
+"Since your payment has not been completed,\nstaff action is required. \nPlease contact the staff from the help button." = "付款尚未完成，需要工作人員處理。\n 請通過幫助按鈕聯繫工作人員。";
+"Paid. Execute check-in." = "有薪酬的。 報到。";
+//CompleteView
+"XXX Password" = "XXX密碼";
+"Checkin has Completed" = "入住完成";
+"Enter your XXX password into the terminal and receive your key." = "在終端中輸入您的 XXX 密碼並接收您的密鑰";
+"I received my key.\nReturn to first screen." = "我收到了我的鑰匙\n返回第一個屏幕";
+//common
+"Run" = "跑";
+"Cancel" = "取消";
+"Confirm"="確認";
+" is" = " 是";
+" ." = " 。";
+" name" = " 姓名";
+" passport picture" = " 護照照片";
+"Go Back" = "返回";
+//Error
+" required" = " 必需的";
+
+"Nationality is required." = "國籍是必需的。";
+"Phone number is required." = "電話號碼是必需的。";
+"Representative guest name is required." = "客人代表的姓名是必需的。";
+"Representative guest passport picture is required." = "需要客人的護照照片。";
+"Other guest name is required." = "其他客人的姓名是必需的。";
+"Other guest passport picture is required." =  "需要其他客人的護照照片。";
+
+"Please agree to the privacy policy." = "必須同意個人信息處理協議。";
+"There is an error in the format of the email." = "電子郵件格式有誤。";
+//PrivacyPolicy
+"Privacy Policy" = "隱私政策";
+//Help
+"HELP" = "查詢";
+"Call the staff" = "打電話給工作人員";
+"Check-in Instructions" = "入住說明";
+"How to get your key" = "如何獲得您的鑰匙";
+"How to use the facility" = "如何使用設施";
+"Check-out Instructions" = "退房說明";
+"Other Services" = "其他服務";
+"If you are in a hurry, please contact us at the contact information below." = "如果您有急事，請通過以下聯繫方式與我們聯繫。";
+
+"Describe the check-in procedure" = "描述登機手續";
+"Language selection" = "語言選擇";
+"First, select your language on the top page of the check-in app." = "首先，在值機應用的首頁選擇您的語言。";
+"Enter your reservation number" = "輸入您的預訂號碼";
+"Please read the QR code of the reservation number described in the reservation completion email sent from us at the time of reservation. Alternatively, enter the reservation number provided in the email and tap \"Next\"." = "請閱讀預訂時我們發送的預訂完成電子郵件中描述的預訂編號的二維碼。 或者，輸入電子郵件中提供的預訂編號，然後點擊\“下一步\”。";
+"Enter customer information" = "輸入客戶信息";
+"Once the reservation has been confirmed based on the reservation number entered by the customer, the screen will transition to the customer information input screen. \nPlease enter the necessary information for the representative and all guests to complete check-in. \nIf you do not live in Japan, you are required to take a photo of your ID card with a face photo, such as a passport, so please take a photo from yesterday on the form. \nIf you have not paid yet, please contact the staff. Please call the staff from the help button on the upper right of the screen." = "根據顧客輸入的預約號碼確認預約後，畫面將切換至顧客信息輸入畫面。 \n請輸入代表和所有客人完成入住所需的信息。 \n如果您不住在日本，您需要為您的身份證和人臉照片（例如護照）拍照，因此請在表格上拍攝昨天的照片。 \n如果您還沒有付款，請聯繫工作人員。 請從畫面右上方的幫助按鈕呼叫工作人員。";
+"Key pick-up" = "取鑰匙";
+"After successful check-in, a serial number for key collection will be displayed. Enter the serial number into the terminal called XXX and receive the key. \nPlease refer to the following for the operation procedure of the terminal." = "簽到成功後，會顯示領取鑰匙的序號。 在名為 XXX 的終端中輸入序列號並接收密鑰。 \n終端的操作流程請參考以下。";
+
+"We will explain how to operate the XXX terminal when receiving the key." = "我們將解釋在收到密鑰時如何操作 XXX 終端。";
+"We have automated the receipt of keys, and we have introduced a mechanism to receive them from a terminal called XXX. The procedure is described below." = "我們已經自動接收密鑰，並且我們引入了一種機制來從名為 XXX 的終端接收它們。 該過程如下所述。";
+"Touch the touch panel of XXX" = "觸摸 XXX 的觸控面板";
+"Choose your language" = "選擇你的語言";
+"Select key pick-up" = "选择钥匙领取";
+"Enter key code" = "輸入密鑰代碼";
+"Select the name of the key you will receive" = "選擇您將收到的密鑰的名稱";
+"Take the key out of the open lock cabinet and close it" = "從打開的鎖櫃中取出鑰匙並將其關閉";
+"The number on the key is the room number." = "鑰匙上的數字就是房間號。";
+"" = "";
+"We will explain how to use the facility and precautions." = "我們將解釋如何使用設施和注意事項。";
+"Front desk" = "接待處";
+"The front desk is on the 1st floor of the building across from XXX. \nIf you have any questions, please come to the front desk." = "接待處位於XXX對面大樓的一樓。 \n如有任何問題，請到前台諮詢。";
+"Accommodation area" = "住宿區";
+"Please enter Hayashi Kaikan in the building opposite the front desk, and our accommodation area is on the 4th and 5th floors. \nPlease do not enter 1F ~ 3F. \nSorry, this building does not have an elevator, so please use the stairs." = "請進入接待處對面的XXX大樓，我們的住宿區在4樓和5樓。 \n請不要進入1F~3F。 \n對不起，這棟樓沒有電梯，所以請走樓梯。";
+"Floor map" = "樓層圖";
+"Toilet location" = "厕所位置";
+"There is a men's restroom on the 4th floor and a women's restroom on the 5th floor. Please make sure there are no mistakes." = "4樓有男廁所，5樓有女廁所。 請確保沒有錯誤。";
+"Shower room" = "淋浴房";
+"There is one shower room on each floor on the 4th and 5th floors. Please be sure to lock the door when using. It can get crowded at night. There is also a public bath nearby, so please use it if you like. \nWe sell towels at the front desk. Soap and shampoo are provided. Please refrain from using the hair dryer after 22:00." = "4樓和5樓各有1個淋浴間。 使用時請務必鎖好門。 晚上可能會很擁擠。 附近還有公共浴池，喜歡的話請使用。 \n我們在前台出售毛巾。 提供肥皂和洗髮水。 22:00後請勿使用吹風機。";
+"Non smoking area" = "非吸煙區";
+"All rooms and buildings are non-smoking. When smoking, please use the 5F smoking area listed on the floor map. If we find that you have smoked in your room, we will charge you a cleaning fee." = "所有客房和建築物均禁止吸煙。 吸煙時，請使用樓層地圖所示的5F吸煙區。 如果我們發現您在房間內吸煙，我們將向您收取清潔費。";
+"Shared kitchen" = "共用廚房";
+"There is a shared kitchen on the 5th floor. Since other customers will also use it, please clean it after use and take care so that the next customer can use it comfortably." = "5樓有共用廚房。 由於其他客戶也會使用，所以請在使用後清潔並小心，以便下一位客戶可以舒適地使用它。";
+"Key handling when going out" = "外出時的鑰匙處理";
+"There is no need to leave your key at the front desk when you go out. Please manage by yourself. If you lose the key, we will charge a fee for reissuing the key. note that." = "外出時無需將鑰匙留在前台。 請自行管理。 如果您丟失了密鑰，我們將收取重新頒發密鑰的費用。 注意。";
+"Check-out/Key return location" = "退房/鑰匙歸還地點";
+"Please check out by 10:00.\nIf you wish to extend your stay, please ask at the front desk." = "請於 10:00 前退房。\n如果您想延長逗留時間，請在前台詢問。";
+"If you check out before 9:00, there are key return boxes on the stairs on the 4th and 5th floors. Please return the key there. Please return the key to the front desk after 9:00." = "如果您在9:00之前退房，4樓和5樓的樓梯上有鑰匙歸還箱。 請在那裡歸還鑰匙。 請於9:00後將鑰匙交還前台。";
+"Request for cooperation in collection of sheets and pillowcases" = "請求合作收集床單和枕套";
+"When checking out, please remove the pillowcases and sheets from the futon and put them in the collection bag near the stairs. Thank you for your cooperation." = "退房時，請將被褥上的枕套和床單取出，放入靠近樓梯的收集袋中。 謝謝您的合作。";
+"Luggage storage service" = "行李寄存服務";
+"After check-out, you can leave your luggage at the front desk for free on the same day. You can keep it until the closing time of the front desk." = "退房後，您可以在當天免費將行李寄存在前台。 您可以保留到前台關閉時間。";
+"Event announcement" = "活動公告";
+"We regularly hold events such as movie screenings and parties. Please join us. Please contact the front desk staff for details." = "我們定期舉辦電影放映和派對等活動。 請加入我們。 詳情請聯繫前台工作人員。";
+"Describe the checkout procedure." = "描述結帳程序。";
+"List other services." = "列出其他服務。";
+
+//AlertModal
+"Call Send Success" = "通知成功。\n請稍等片刻，直到工作人員回复。";
+"Call Send Failed" = "通知失敗。\n請通過其他方式聯繫我們。";
+//予約情報が見つからない場合
+"Reservation information not found." = "未找到預訂信息。\n 預訂號碼可能不正確、或者您可能已經登記入住。\n請返回上一畫面重新輸入。";
+//SecondView QRCodeリーダー
+"Keep scanning for QR-codes"="將您的二維碼放在上面。";
+"Read the QR code in the email when you made the reservation, or Please enter your reservation number." = "預訂時閱讀電子郵件中的二維碼，\n或請輸入您的預訂號碼。";
+
+//Privacy Policy
+"PRIVACY POLICY" = "隱私政策";
+"Policy for handling private information" = "個人信息保護方針";
+"Us XXX.LCC, the operating company of XXX (hereinafter referred to as the company) handle personal information as required to running our business. We take seriously the importance of your personal information, and under the recognition that protection of personal information is our legal and social responsibility, all staff take great care to protect them." = "經營XXX的XXX LLC（以下簡稱\“本公司\”）在業務過程中處理個人信息。我們客戶的個人信息是非常重要的信息，所有員工都在認識到保護個人信息是一項社會責任的基礎上共同努力。";
+"We have created the following list of policies to serve our responsibility as a company handling personal information. Here and onwards, the company and its staff will operate our business following these principals and serve to the development of society." = "我們制定了以下政策，以履行我們作為處理個人信息的公司的責任。今後，本公司及全體員工將努力按照這一方針開展業務，為社會做出貢獻。";
+"1. Collecting, handling and handing of personal information" = "1.關於收集、使用和提供個人信息的政策";
+"When we collect personal information, we will inform the provider with the usage of information to obtain consensus. We will take proper measures to manage the use of information, by limiting its usage to be kept within our original purpose, and give the provider of information with the option to delete or change their information." ="關於個人信息的收集，我們將事先徵得提供者的同意，並對其使用進行適當的管理，將其限制在我們的業務範圍內，並應提供者的要求進行刪除或更正。我們將努力實施嚴格的管理。" ;
+"2. Managing risks such as information leakage" ="2.個人信息洩露等風險對策政策";
+"We will take proper measures to prevent loss, destruction, falsification, leakage, theft, and other risks, and will act swiftly if such exceptional cases may occur." ="對於客戶的個人信息，我們將嚴格執行預防措施，以防止丟失、破壞、篡改、洩漏、攝入等，並努力在緊急情況下迅速採取應對措施。" ;
+"3. Policy for legal compliance" = "3. 關於遵守有關個人信息的法律和其他規範的政策";
+"We will keep to the law related to protection of personal information by ensuring the company and its staff learn, understand and reflect its meaning to the individual actions." = "我們將通過讓我們公司和所有員工根據需要學習並充分理解並反映在我們的日常行動中來努力遵守與個人信息保護相關的法律法規和相關法律法規的精神。";
+"4. Rights of personal information" = "4. 關於個人信息權利的政策";
+"With regards to personal information we obtain through inquiries, questionnaire, resumes of job applicants and any other formats, when asked for disclosure by the original provider, or when asked to make change or discard the information, we will ensure to act as swiftly as possible." = "對於通過文件請求、問卷調查、招聘/報到表等委託給我們的個人信息，如果您被要求披露您自己的信息，或者如果出現錯誤並被要求更正或刪除，則在合理範圍 我們將努力盡快做出回應。";
+"XXX.LCC" = "XXX LLC";
+"Representative: XXX" = "代表 XXX" ;
+"Inquiry desk for privacy protection" = "有關個人信息處理的諮詢";
+"Contact point for personal information protection" = "個人信息保護負責人";
+"TEL:" = "電話：" ;
